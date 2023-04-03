@@ -19,3 +19,11 @@ Projekt M.A.R.I.U.S.Z.
 14.	Konsultacje wykonania.
 15.	Oddanie projektu.
 ***
+***Spis elementów***
+***
+1.	Silnik napędowy.
+2.	Siłowniki elektromagnetyczne z powrotem na sprężynie x2.
+3.	Manipulator.
+4.	Detektor koloru.
+5.	Czujnik obecności.
+***
