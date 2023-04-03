@@ -26,4 +26,5 @@ Projekt M.A.R.I.U.S.Z.
 3.	Manipulator.
 4.	Detektor koloru.
 5.	Czujnik obecności.
+6.      Łożyska kulkowe fi2 x12
 ***
