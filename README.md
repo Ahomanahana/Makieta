@@ -21,7 +21,7 @@ Projekt
 ***
 ***Spis elementów***
 ***
-1.	Silnik napędowy.
+1.	Silnik napędowy x3/4.
 2.	Siłowniki elektromagnetyczne z powrotem na sprężynie x2.
 3.	Manipulator.
 4.	Detektor koloru.
